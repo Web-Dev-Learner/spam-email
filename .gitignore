@@ -1,0 +1,20 @@
+# Ignore Python bytecode
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs
+*.log
+
+# Ignore other unnecessary files
+__pycache__/
+
+# ignore dataset 
+spam_ham_dataset.csv
+
