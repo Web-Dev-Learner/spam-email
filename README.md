@@ -44,6 +44,11 @@ This project aims to automatically classify emails as either spam or ham (non-sp
 - **Model Evaluation**: Performance metrics visualization and cross-validation.
 - **High Accuracy**: Achieved high accuracy in spam detection.
 
+  
+## Dataset
+
+The dataset used in this project is the **Spam-Ham** dataset, which contains labeled emails. The dataset is preprocessed to remove unnecessary characters and stop words. The goal is to classify each email as either spam or ham.
+
 ## Tech Stack
 
 - **Languages**: Python
@@ -53,6 +58,8 @@ This project aims to automatically classify emails as either spam or ham (non-sp
   - **Scikit-learn**: For machine learning models and preprocessing
   - **TensorFlow**: Used for more advanced models (if needed)
   - **Matplotlib & Seaborn**: For data visualization
+    
+
 - **Tools**: 
   - **Jupyter Notebook**: For running the code and experimentation
   - **VS Code**: IDE for development
